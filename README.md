@@ -22,7 +22,7 @@ Golang实现的多币种HD钱包
 ## 安装
 
 ```sh
-go get -v -u github.com/ygcool/go-hdwallet
+go get -v -u github.com/kryptogo/go-hdwallet
 ```
 
 ## 示例
@@ -35,7 +35,7 @@ import (
     "fmt"
 
     "github.com/tyler-smith/go-bip39"
-    "github.com/ygcool/go-hdwallet"
+    "github.com/kryptogo/go-hdwallet"
 )
 
 func main() {

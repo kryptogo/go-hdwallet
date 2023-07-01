@@ -1,4 +1,4 @@
-module github.com/ygcool/go-hdwallet
+module github.com/kryptogo/go-hdwallet
 
 go 1.16
 
