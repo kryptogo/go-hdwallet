@@ -1,7 +1,7 @@
 package hdwallet
 
 import (
-	"github.com/fbsobreira/gotron-sdk/pkg/address"
+	"github.com/kryptogo/gotron-sdk/pkg/address"
 )
 
 func init() {
